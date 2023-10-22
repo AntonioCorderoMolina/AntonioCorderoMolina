@@ -5,7 +5,7 @@ I'm Antonio Cordero, a first-year student in Web Applications Development at <a 
 <br></br>
 As a passionate hardware enthusiast, I have always had a curiosity for computer science, and now I'm eager to change my career path and learn everything about software development. 🧑‍💻 I am open to opportunities that allow me to leverage my skills and experience. 📈
 <br></br>
-I enjoy mechanics, learning new languages, reading sci-fi, and playing video games 👾
+What I enjoy is mechanics, learning new languages, reading sci-fi, and playing video games 👾
 
 ## Contact me anytime 🫡: <img align="left" width="150" height="150" src="https://github.com/ToniTonyChopper/ToniTonyChopper/blob/main/githubReadme/red-in-a-pc.png">
 
