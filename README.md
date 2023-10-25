@@ -1,7 +1,7 @@
 # Hello there 👋😄
 
 <img src="https://github.com/ToniTonyChopper/ToniTonyChopper/blob/main/githubReadme/banner.png" alt="banner that says Antonio Cordero - Web Applications Development Student">
-I'm Antonio Cordero, a first-year student in Web Applications Development at <a href="https://fp.iescampanillas.com/">I.E.S. Campanillas</a>, Malaga. I already have a background as a scientist and chemical laboratory analyst and previous working experience in quality and testing in the industry that has helped me develop a detail-oriented, analytical, and creative mentality.👨‍🔬
+I'm Antonio Cordero, a first-year student in Web Applications Development at <a href="https://fp.iescampanillas.com/">I.E.S. Alan Turing</a>, Malaga. I already have a background as a scientist and chemical laboratory analyst and previous working experience in quality and testing in the industry that has helped me develop a detail-oriented, analytical, and creative mentality.👨‍🔬
 <br></br>
 As a passionate hardware enthusiast, I have always had a curiosity for computer science, and now I'm eager to change my career path and learn everything about software development. 🧑‍💻 I am open to opportunities that allow me to leverage my skills and experience. 📈
 <br></br>
