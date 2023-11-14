@@ -3,7 +3,7 @@
 <img src="https://github.com/antcordero/antcordero/blob/main/github-Readme-images/banner.png" alt="banner that says Antonio Cordero - Web Applications Development Student">
 I'm a first-year student in Web Applications Development at <a href="https://fp.iescampanillas.com/">I.E.S. Alan Turing</a>, Malaga. 
 <br></br>
-I already have a background as a scientist and chemical laboratory analyst and previous working experience in quality and testing in the industry that has helped me develop a detail-oriented, analytical, and creative mentality.👨‍🔬
+I already have a background as a scientist, chemical laboratory analyst and previous working experience in quality and testing in the industry that has helped me develop a detail-oriented, analytical, and creative mindset.👨‍🔬
 <br></br>
 As a passionate hardware enthusiast, I have always had a curiosity for computer science, and now I'm eager to change my career path and learn everything about software development. 🧑‍💻
 <br></br>
